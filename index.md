@@ -13,6 +13,6 @@
 - **Stranger In A Strange Land** *Robert A Heinlein* 👽
 - **Equal Rites** *Terry Pratchett* 🪄
 - **Monk And Robot** *Becky Chambers* 🫖
-- ~**Gruffalo Granny**~ *Julia Donaldson* 🐻
-- ~**How To Pee Your Pants, The Right Way**~ *Rachel Michelle Wilson* 😹
+- ~~**Gruffalo Granny**~~ *Julia Donaldson* 🐻
+- ~~**How To Pee Your Pants, The Right Way**~~ *Rachel Michelle Wilson* 😹
 - **Rogue Lawyer** *John Grisham* 🧑‍⚖️
