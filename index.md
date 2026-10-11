@@ -12,7 +12,7 @@
 - **Fellowship Of The Ring** *J.R.R.Tolkien* 💍
 - **Stranger In A Strange Land** *Robert A Heinlein* 👽
 - **Equal Rites** *Terry Pratchett* 🪄
-- **Monk And Robot** *Becky Chambers* 🫖
+- ~~**Monk And Robot**~~ *Becky Chambers* 🫖
 - ~~**Gruffalo Granny**~~ *Julia Donaldson* 🐻
 - ~~**How To Pee Your Pants, The Right Way**~~ *Rachel Michelle Wilson* 😹
 - **Rogue Lawyer** *John Grisham* 🧑‍⚖️
