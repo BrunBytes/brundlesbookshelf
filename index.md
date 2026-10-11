@@ -15,3 +15,4 @@
 - **Monk And Robot** *Becky Chambers* 🫖
 - ~**Gruffalo Granny**~ *Julia Donaldson* 🐻
 - ~**How To Pee Your Pants, The Right Way**~ *Rachel Michelle Wilson* 😹
+- **Rogue Lawyer** *John Grisham* 🧑‍⚖️
