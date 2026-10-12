@@ -8,7 +8,7 @@
 
 - **Dracula** *Bram Stoker* 🧛
 - **Frankenstein** *Mary Shelley* ⚡
-- **The Hobbit** *J.R.R.Tolkien* 🐉
+- ~~**The Hobbit**~~ *J.R.R.Tolkien* 🐉
 - **Fellowship Of The Ring** *J.R.R.Tolkien* 💍
 - **Stranger In A Strange Land** *Robert A Heinlein* 👽
 - **Equal Rites** *Terry Pratchett* 🪄
