@@ -4,7 +4,7 @@
 - If you don't enjoy them feel free to return and choose another, or pass along.
 - Please don't sell the books for profit, let people enjoy reading them.
 
-## Current Books
+## Current Books (Updated in the evenings)
 
 - **Dracula** *Bram Stoker* 🧛
 - ~~**Frankenstein**~~ *Mary Shelley* ⚡
@@ -13,9 +13,9 @@
 - **Stranger In A Strange Land** *Robert A Heinlein* 👽
 - **Equal Rites** *Terry Pratchett* 🪄
 - ~~**Monk And Robot**~~ *Becky Chambers* 🫖
-- ~~**Gruffalo Granny**~~ *Julia Donaldson* 🐻
-- ~~**How To Pee Your Pants, The Right Way**~~ *Rachel Michelle Wilson* 😹
+- **Gruffalo Granny** *Julia Donaldson* 🐻
+- **How To Pee Your Pants, The Right Way** *Rachel Michelle Wilson* 😹
 - **Rogue Lawyer** *John Grisham* 🧑‍⚖️
 - **A Century of Troubles** *Stevie Davies* 👑
 - ~~**Winnie-the-Pooh**~~ *A. A. Milne* 🍯
-- **Buttfish** - *Pauline Pinson* 🐡
+- ~~**Buttfish**~~ - *Pauline Pinson* 🐡
