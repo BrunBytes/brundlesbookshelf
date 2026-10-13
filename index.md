@@ -7,7 +7,7 @@
 ## Current Books
 
 - **Dracula** *Bram Stoker* 🧛
-- **Frankenstein** *Mary Shelley* ⚡
+- ~~**Frankenstein**~~ *Mary Shelley* ⚡
 - ~~**The Hobbit**~~ *J.R.R.Tolkien* 🐉
 - **Fellowship Of The Ring** *J.R.R.Tolkien* 💍
 - **Stranger In A Strange Land** *Robert A Heinlein* 👽
@@ -17,4 +17,4 @@
 - ~~**How To Pee Your Pants, The Right Way**~~ *Rachel Michelle Wilson* 😹
 - **Rogue Lawyer** *John Grisham* 🧑‍⚖️
 - **A Century of Troubles** *Stevie Davies* 👑
-- **Winnie-the-Pooh** *A. A. Milne* 🍯
+- ~~**Winnie-the-Pooh**~~ *A. A. Milne* 🍯
