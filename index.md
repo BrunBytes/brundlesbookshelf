@@ -6,7 +6,7 @@
 
 ## Current Books (Updated in the evenings)
 
-- **Dracula** *Bram Stoker* 🧛
+- ~~**Dracula**~~ *Bram Stoker* 🧛
 - ~~**Frankenstein**~~ *Mary Shelley* ⚡
 - ~~**The Hobbit**~~ *J.R.R.Tolkien* 🐉
 - ~~**Fellowship Of The Ring**~~ *J.R.R.Tolkien* 💍
@@ -14,10 +14,10 @@
 - **Equal Rites** *Terry Pratchett* 🪄
 - ~~**Monk And Robot**~~ *Becky Chambers* 🫖
 - **Gruffalo Granny** *Julia Donaldson* 🐻
-- **How To Pee Your Pants, The Right Way** *Rachel Michelle Wilson* 😹
+- ~~**How To Pee Your Pants, The Right Way**~~ *Rachel Michelle Wilson* 😹
 - ~~**Rogue Lawyer**~~ *John Grisham* 🧑‍⚖️
 - **A Century of Troubles** *Stevie Davies* 👑
 - ~~**Winnie-the-Pooh**~~ *A. A. Milne* 🍯
 - ~~**Buttfish**~~ - *Pauline Pinson* 🐡
-- **The Drowning Woman** *Robyn Harding* 🕵️‍♀️
-- **The Lion, The Witch and The Wardrobe** *C.S. Lewis* 🦁 
+- ~~**The Drowning Woman**~~ *Robyn Harding* 🕵️‍♀️
+- ~~**The Lion, The Witch and The Wardrobe**~~ *C.S. Lewis* 🦁 
