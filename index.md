@@ -20,3 +20,4 @@
 - ~~**Winnie-the-Pooh**~~ *A. A. Milne* 🍯
 - ~~**Buttfish**~~ - *Pauline Pinson* 🐡
 - **The Drowning Woman** *Robyn Harding* 🕵️‍♀️
+- **The Lion, The Witch and The Wardrobe** *C.S. Lewis* 🦁 
