@@ -9,7 +9,7 @@
 - **Stranger In A Strange Land** *Robert A Heinlein* 👽
 - **Equal Rites** *Terry Pratchett* 🪄
 - **How To Pee Your Pants, The Right Way** *Rachel Michelle Wilson* 😹
-- **Little Bee** *Chris Cleave* 👩
+- **Little Bee** *Chris Cleave* 🐝
 - **Peek-A-Boo HAIKU** *Danna Smith* 👀
 - **Little Chick** *Petr Horacek* 🐤
 - **We're going on a Bear Hunt** *Michael Wayne Rosen* 🐨
