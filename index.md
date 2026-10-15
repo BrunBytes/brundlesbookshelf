@@ -1,4 +1,4 @@
-## Welcome to Brundle's Bookshelf!
+# Welcome to Brundle's Bookshelf!
 
 - Please borrow and read any books you want. Keep them if you want!
 - If you don't enjoy them feel free to return and choose another, or pass along.
