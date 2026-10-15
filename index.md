@@ -6,18 +6,24 @@
 
 ## Current Books (Updated in the evenings)
 
+- **Stranger In A Strange Land** *Robert A Heinlein* 👽
+- **Equal Rites** *Terry Pratchett* 🪄
+- **How To Pee Your Pants, The Right Way** *Rachel Michelle Wilson* 😹
+- **Little Bee** *Chris Cleave* 👩
+- **Peek-A-Boo HAIKU** *Danna Smith* 👀
+- **Little Chick** *Petr Horacek* 🐤
+- **We're going on a Bear Hunt** *Michael Wayne Rosen* 🐨
+
+## Checked Out Books
+
 - ~~**Dracula**~~ *Bram Stoker* 🧛
 - ~~**Frankenstein**~~ *Mary Shelley* ⚡
 - ~~**The Hobbit**~~ *J.R.R.Tolkien* 🐉
 - ~~**Fellowship Of The Ring**~~ *J.R.R.Tolkien* 💍
-- **Stranger In A Strange Land** *Robert A Heinlein* 👽
-- **Equal Rites** *Terry Pratchett* 🪄
 - ~~**Monk And Robot**~~ *Becky Chambers* 🫖
-- **Gruffalo Granny** *Julia Donaldson* 🐻
-- ~~**How To Pee Your Pants, The Right Way**~~ *Rachel Michelle Wilson* 😹
-- ~~**Rogue Lawyer**~~ *John Grisham* 🧑‍⚖️
-- **A Century of Troubles** *Stevie Davies* 👑
+- ~~**Gruffalo Granny**~~ *Julia Donaldson* 🐻
+- - ~~**Rogue Lawyer**~~ *John Grisham* 🧑‍⚖️
 - ~~**Winnie-the-Pooh**~~ *A. A. Milne* 🍯
 - ~~**Buttfish**~~ - *Pauline Pinson* 🐡
 - ~~**The Drowning Woman**~~ *Robyn Harding* 🕵️‍♀️
-- ~~**The Lion, The Witch and The Wardrobe**~~ *C.S. Lewis* 🦁 
+- ~~**The Lion, The Witch and The Wardrobe**~~ *C.S. Lewis* 🦁
