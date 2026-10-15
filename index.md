@@ -16,14 +16,14 @@
 
 ## Checked Out Books
 
-- ~~**Dracula**~~ *Bram Stoker* 🧛
-- ~~**Frankenstein**~~ *Mary Shelley* ⚡
-- ~~**The Hobbit**~~ *J.R.R.Tolkien* 🐉
-- ~~**Fellowship Of The Ring**~~ *J.R.R.Tolkien* 💍
-- ~~**Monk And Robot**~~ *Becky Chambers* 🫖
-- ~~**Gruffalo Granny**~~ *Julia Donaldson* 🐻
-- - ~~**Rogue Lawyer**~~ *John Grisham* 🧑‍⚖️
-- ~~**Winnie-the-Pooh**~~ *A. A. Milne* 🍯
-- ~~**Buttfish**~~ - *Pauline Pinson* 🐡
-- ~~**The Drowning Woman**~~ *Robyn Harding* 🕵️‍♀️
-- ~~**The Lion, The Witch and The Wardrobe**~~ *C.S. Lewis* 🦁
+- **Dracula** *Bram Stoker* 🧛
+- **Frankenstein** *Mary Shelley* ⚡
+- **The Hobbit** *J.R.R.Tolkien* 🐉
+- **Fellowship Of The Ring** *J.R.R.Tolkien* 💍
+- **Monk And Robot** *Becky Chambers* 🫖
+- **Gruffalo Granny** *Julia Donaldson* 🐻
+- **Rogue Lawyer** *John Grisham* 🧑‍⚖️
+- **Winnie-the-Pooh** *A. A. Milne* 🍯
+- **Buttfish** - *Pauline Pinson* 🐡
+- **The Drowning Woman** *Robyn Harding* 🕵️‍♀️
+- **The Lion, The Witch and The Wardrobe** *C.S. Lewis* 🦁
