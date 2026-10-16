@@ -6,12 +6,11 @@
 
 ## Current Books
 
-- **Stranger In A Strange Land** *Robert A Heinlein* 👽
-- **Equal Rites** *Terry Pratchett* 🪄
-- **How To Pee Your Pants, The Right Way** *Rachel Michelle Wilson* 😹
-- **Little Bee** *Chris Cleave* 🐝
-- **Peek-A-Boo HAIKU** *Danna Smith* 👀
-- **Little Chick** *Petr Horacek* 🐤
-- **We're going on a Bear Hunt** *Michael Wayne Rosen* 🐨
-
-## Books That Found A New Home So Far - 11!
+- **Stranger In A Strange Land** 
+- **Equal Rites** 
+- **How To Pee Your Pants, The Right Way** 
+- **Little Bee**
+- **Peek-A-Boo HAIKU** 
+- **Little Chick** 
+- **We're going on a Bear Hunt** 
+- **My Neighbor Totoro**
